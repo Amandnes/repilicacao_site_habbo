@@ -260,7 +260,6 @@ h2 {
 }
 .header-content {
     background: url(https://images.habbo.com/habbo-web/america/pt/assets/images/backgrounds/hotel.5e0e63d8.png) no-repeat;
-    content: '';
     display: block;
     background-repeat: no-repeat;
     background-position-y: -95px;
