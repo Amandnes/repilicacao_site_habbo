@@ -16,7 +16,7 @@ body {
     min-height: 100vh;
 }
 top-conteiner {
-    background: rgba(0,0,0,.5);
+    background: rgba(0,0,0,0.5);
     padding: 6px 0;
     z-index: 500;
     position: fixed;
